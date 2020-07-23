@@ -1,0 +1,28 @@
+c:\users\hd editor\documents\visual studio 2015\Projects\fsproject\fsproject\bin\Debug\fsproject.exe.config
+c:\users\hd editor\documents\visual studio 2015\Projects\fsproject\fsproject\bin\Debug\fsproject.exe
+c:\users\hd editor\documents\visual studio 2015\Projects\fsproject\fsproject\bin\Debug\fsproject.pdb
+c:\users\hd editor\documents\visual studio 2015\Projects\fsproject\fsproject\obj\Debug\fsproject.csprojResolveAssemblyReference.cache
+c:\users\hd editor\documents\visual studio 2015\Projects\fsproject\fsproject\obj\Debug\fsproject.Form1.resources
+c:\users\hd editor\documents\visual studio 2015\Projects\fsproject\fsproject\obj\Debug\fsproject.page2.resources
+c:\users\hd editor\documents\visual studio 2015\Projects\fsproject\fsproject\obj\Debug\fsproject.page3.resources
+c:\users\hd editor\documents\visual studio 2015\Projects\fsproject\fsproject\obj\Debug\fsproject.page6.resources
+c:\users\hd editor\documents\visual studio 2015\Projects\fsproject\fsproject\obj\Debug\fsproject.page7.resources
+c:\users\hd editor\documents\visual studio 2015\Projects\fsproject\fsproject\obj\Debug\fsproject.Properties.Resources.resources
+c:\users\hd editor\documents\visual studio 2015\Projects\fsproject\fsproject\obj\Debug\fsproject.csproj.GenerateResource.Cache
+c:\users\hd editor\documents\visual studio 2015\Projects\fsproject\fsproject\obj\Debug\fsproject.exe
+c:\users\hd editor\documents\visual studio 2015\Projects\fsproject\fsproject\obj\Debug\fsproject.pdb
+C:\Users\HD Editor\Documents\Visual Studio 2015\Projects\fsproject\fsproject\obj\Debug\fsproject.page8.resources
+C:\Users\HD Editor\Desktop\fsproject\fsproject\bin\Debug\fsproject.exe.config
+C:\Users\HD Editor\Desktop\fsproject\fsproject\obj\Debug\fsproject.exe
+C:\Users\HD Editor\Desktop\fsproject\fsproject\obj\Debug\fsproject.pdb
+C:\Users\HD Editor\Desktop\fsproject\fsproject\bin\Debug\fsproject.exe
+C:\Users\HD Editor\Desktop\fsproject\fsproject\bin\Debug\fsproject.pdb
+C:\Users\HD Editor\Desktop\fsproject\fsproject\obj\Debug\fsproject.csprojResolveAssemblyReference.cache
+C:\Users\HD Editor\Desktop\fsproject\fsproject\obj\Debug\fsproject.Form1.resources
+C:\Users\HD Editor\Desktop\fsproject\fsproject\obj\Debug\fsproject.page2.resources
+C:\Users\HD Editor\Desktop\fsproject\fsproject\obj\Debug\fsproject.page3.resources
+C:\Users\HD Editor\Desktop\fsproject\fsproject\obj\Debug\fsproject.page6.resources
+C:\Users\HD Editor\Desktop\fsproject\fsproject\obj\Debug\fsproject.page7.resources
+C:\Users\HD Editor\Desktop\fsproject\fsproject\obj\Debug\fsproject.page8.resources
+C:\Users\HD Editor\Desktop\fsproject\fsproject\obj\Debug\fsproject.Properties.Resources.resources
+C:\Users\HD Editor\Desktop\fsproject\fsproject\obj\Debug\fsproject.csproj.GenerateResource.Cache
